@@ -13,7 +13,7 @@ public class YearMod400 extends Process {
 	@Override
 	public boolean process(int year) {
 		
-		Logger log = ILogger.getLogger();
+		Logger log = Logger.getLogger(YearMod400.class.getName());
 		if(year%400 == 0) {
 			log.debug("In YearMod400 process");
 			log.debug("Year is leap");

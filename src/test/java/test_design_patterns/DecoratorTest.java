@@ -6,7 +6,6 @@ import org.apache.log4j.Logger;
 import org.junit.Test;
 
 import structural_decorator.BlackPant;
-import structural_decorator.ILogger;
 import structural_decorator.Person;
 import structural_decorator.WhiteShirt;
 
@@ -17,7 +16,7 @@ public class DecoratorTest {
 		Person viswa = new Person("Viswa");
 		viswa = new WhiteShirt(viswa);
 		viswa = new BlackPant(viswa);
-		Logger log = ILogger.getLogger();
+		Logger log = Logger.getLogger(DecoratorTest.class.getName());
 		log.debug(viswa.getOutfits());
 
 		assertEquals("Viswa, with Shirt, with Black pant", viswa.getOutfits());

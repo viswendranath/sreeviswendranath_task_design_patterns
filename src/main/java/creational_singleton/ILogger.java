@@ -11,7 +11,7 @@ public class ILogger {
     
     public static Logger getLogger() {
     	if(LOGGER == null) {
-    		LOGGER = Logger.getLogger(Object.class);
+    		LOGGER = Logger.getLogger(ILogger.class);
     		BasicConfigurator.configure();    		
     	}
     	return LOGGER;

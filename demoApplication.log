@@ -1,0 +1,230 @@
+[main] INFO  test_design_patterns.AdapterTest  - Created HpIndianCharger object
+[main] INFO  test_design_patterns.AdapterTest  - Created HpUsCharger object
+[main] DEBUG structural_adapter.HpIndianCharger  - Fits with an Indian port
+[main] DEBUG structural_adapter.HpUsCharger  - Fits with an US port
+[main] INFO  test_design_patterns.AdapterTest  - Created UsToIndiaAdapter object
+[main] DEBUG structural_adapter.UsToIndiaAdapter  - Fits with an Indian port
+[main] DEBUG creational_singleton.ILogger  - Vanila
+[main] DEBUG creational_singleton.ILogger  - Strawberry
+[main] DEBUG creational_singleton.ILogger  - Black Current
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is not a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - In YearMod100 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - Year is not a leap year
+[main] DEBUG behavioural_state.Rectangle  - Drawing Rectangle
+[main] DEBUG behavioural_state.Circle  - Drawing Circle
+[main] DEBUG test_design_patterns.DecoratorTest  - Viswa, with Shirt, with Black pant
+[main] DEBUG test_design_patterns.DecoratorTest  - none, with Black pant
+[main] DEBUG creational_singleton.ILogger  - This is a test for singleton creational design patter
+[main] DEBUG creational_singleton.ILogger  - Hash code of first retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Hash code of second retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Are two objects same ? true
+[main] INFO  test_design_patterns.AdapterTest  - Created HpIndianCharger object
+[main] INFO  test_design_patterns.AdapterTest  - Created HpUsCharger object
+[main] DEBUG structural_adapter.HpIndianCharger  - Fits with an Indian port
+[main] DEBUG structural_adapter.HpUsCharger  - Fits with an US port
+[main] INFO  test_design_patterns.AdapterTest  - Created UsToIndiaAdapter object
+[main] DEBUG structural_adapter.UsToIndiaAdapter  - Fits with an Indian port
+[main] DEBUG creational_singleton.ILogger  - Vanila
+[main] DEBUG creational_singleton.ILogger  - Strawberry
+[main] DEBUG creational_singleton.ILogger  - Black Current
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is not a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - In YearMod100 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - Year is not a leap year
+[main] DEBUG behavioural_state.Rectangle  - Drawing Rectangle
+[main] DEBUG behavioural_state.Circle  - Drawing Circle
+[main] DEBUG test_design_patterns.DecoratorTest  - Viswa, with Shirt, with Black pant
+[main] DEBUG test_design_patterns.DecoratorTest  - none, with Black pant
+[main] DEBUG creational_singleton.ILogger  - This is a test for singleton creational design patter
+[main] DEBUG creational_singleton.ILogger  - Hash code of first retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Hash code of second retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Are two objects same ? true
+[main] INFO  test_design_patterns.AdapterTest  - Created HpIndianCharger object
+[main] INFO  test_design_patterns.AdapterTest  - Created HpUsCharger object
+[main] DEBUG structural_adapter.HpIndianCharger  - Fits with an Indian port
+[main] DEBUG structural_adapter.HpUsCharger  - Fits with an US port
+[main] INFO  test_design_patterns.AdapterTest  - Created UsToIndiaAdapter object
+[main] DEBUG structural_adapter.UsToIndiaAdapter  - Fits with an Indian port
+[main] DEBUG creational_singleton.ILogger  - Vanila
+[main] DEBUG creational_singleton.ILogger  - Strawberry
+[main] DEBUG creational_singleton.ILogger  - Black Current
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is not a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - In YearMod100 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - Year is not a leap year
+[main] DEBUG behavioural_state.Rectangle  - Drawing Rectangle
+[main] DEBUG behavioural_state.Circle  - Drawing Circle
+[main] DEBUG test_design_patterns.DecoratorTest  - Viswa, with Shirt, with Black pant
+[main] DEBUG test_design_patterns.DecoratorTest  - none, with Black pant
+[main] DEBUG creational_singleton.ILogger  - This is a test for singleton creational design patter
+[main] DEBUG creational_singleton.ILogger  - Hash code of first retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Hash code of second retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Are two objects same ? true
+[main] INFO  test_design_patterns.AdapterTest  - Created HpIndianCharger object
+[main] INFO  test_design_patterns.AdapterTest  - Created HpUsCharger object
+[main] DEBUG structural_adapter.HpIndianCharger  - Fits with an Indian port
+[main] DEBUG structural_adapter.HpUsCharger  - Fits with an US port
+[main] INFO  test_design_patterns.AdapterTest  - Created UsToIndiaAdapter object
+[main] DEBUG structural_adapter.UsToIndiaAdapter  - Fits with an Indian port
+[main] DEBUG creational_singleton.ILogger  - Vanila
+[main] DEBUG creational_singleton.ILogger  - Strawberry
+[main] DEBUG creational_singleton.ILogger  - Black Current
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is not a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - In YearMod100 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - Year is not a leap year
+[main] DEBUG behavioural_state.Rectangle  - Drawing Rectangle
+[main] DEBUG behavioural_state.Circle  - Drawing Circle
+[main] DEBUG test_design_patterns.DecoratorTest  - Viswa, with Shirt, with Black pant
+[main] DEBUG test_design_patterns.DecoratorTest  - none, with Black pant
+[main] DEBUG creational_singleton.ILogger  - This is a test for singleton creational design patter
+[main] DEBUG creational_singleton.ILogger  - Hash code of first retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Hash code of second retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Are two objects same ? true
+[main] INFO  test_design_patterns.AdapterTest  - Created HpIndianCharger object
+[main] INFO  test_design_patterns.AdapterTest  - Created HpUsCharger object
+[main] DEBUG structural_adapter.HpIndianCharger  - Fits with an Indian port
+[main] DEBUG structural_adapter.HpUsCharger  - Fits with an US port
+[main] INFO  test_design_patterns.AdapterTest  - Created UsToIndiaAdapter object
+[main] DEBUG structural_adapter.UsToIndiaAdapter  - Fits with an Indian port
+[main] DEBUG creational_singleton.ILogger  - Vanila
+[main] DEBUG creational_singleton.ILogger  - Strawberry
+[main] DEBUG creational_singleton.ILogger  - Black Current
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is not a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - In YearMod100 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - Year is not a leap year
+[main] DEBUG behavioural_state.Rectangle  - Drawing Rectangle
+[main] DEBUG behavioural_state.Circle  - Drawing Circle
+[main] DEBUG test_design_patterns.DecoratorTest  - Viswa, with Shirt, with Black pant
+[main] DEBUG test_design_patterns.DecoratorTest  - none, with Black pant
+[main] DEBUG creational_singleton.ILogger  - This is a test for singleton creational design patter
+[main] DEBUG creational_singleton.ILogger  - Hash code of first retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Hash code of second retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Are two objects same ? true
+[main] INFO  test_design_patterns.AdapterTest  - Created HpIndianCharger object
+[main] INFO  test_design_patterns.AdapterTest  - Created HpUsCharger object
+[main] DEBUG structural_adapter.HpIndianCharger  - Fits with an Indian port
+[main] DEBUG structural_adapter.HpUsCharger  - Fits with an US port
+[main] INFO  test_design_patterns.AdapterTest  - Created UsToIndiaAdapter object
+[main] DEBUG structural_adapter.UsToIndiaAdapter  - Fits with an Indian port
+[main] DEBUG creational_singleton.ILogger  - Vanila
+[main] DEBUG creational_singleton.ILogger  - Strawberry
+[main] DEBUG creational_singleton.ILogger  - Black Current
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is not a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - In YearMod100 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - Year is not a leap year
+[main] DEBUG behavioural_state.Rectangle  - Drawing Rectangle
+[main] DEBUG behavioural_state.Circle  - Drawing Circle
+[main] DEBUG test_design_patterns.DecoratorTest  - Viswa, with Shirt, with Black pant
+[main] DEBUG test_design_patterns.DecoratorTest  - none, with Black pant
+[main] DEBUG creational_singleton.ILogger  - This is a test for singleton creational design patter
+[main] DEBUG creational_singleton.ILogger  - Hash code of first retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Hash code of second retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Are two objects same ? true
+[main] INFO  test_design_patterns.AdapterTest  - Created HpIndianCharger object
+[main] INFO  test_design_patterns.AdapterTest  - Created HpUsCharger object
+[main] DEBUG structural_adapter.HpIndianCharger  - Fits with an Indian port
+[main] DEBUG structural_adapter.HpUsCharger  - Fits with an US port
+[main] INFO  test_design_patterns.AdapterTest  - Created UsToIndiaAdapter object
+[main] DEBUG structural_adapter.UsToIndiaAdapter  - Fits with an Indian port
+[main] DEBUG creational_singleton.ILogger  - Vanila
+[main] DEBUG creational_singleton.ILogger  - Strawberry
+[main] DEBUG creational_singleton.ILogger  - Black Current
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is not a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - In YearMod100 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - Year is not a leap year
+[main] DEBUG behavioural_state.Rectangle  - Drawing Rectangle
+[main] DEBUG behavioural_state.Circle  - Drawing Circle
+[main] DEBUG test_design_patterns.DecoratorTest  - Viswa, with Shirt, with Black pant
+[main] DEBUG test_design_patterns.DecoratorTest  - none, with Black pant
+[main] DEBUG creational_singleton.ILogger  - This is a test for singleton creational design patter
+[main] DEBUG creational_singleton.ILogger  - Hash code of first retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Hash code of second retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Are two objects same ? true
+[main] INFO  test_design_patterns.AdapterTest  - Created HpIndianCharger object
+[main] INFO  test_design_patterns.AdapterTest  - Created HpUsCharger object
+[main] DEBUG structural_adapter.HpIndianCharger  - Fits with an Indian port
+[main] DEBUG structural_adapter.HpUsCharger  - Fits with an US port
+[main] INFO  test_design_patterns.AdapterTest  - Created UsToIndiaAdapter object
+[main] DEBUG structural_adapter.UsToIndiaAdapter  - Fits with an Indian port
+[main] DEBUG creational_singleton.ILogger  - Vanila
+[main] DEBUG creational_singleton.ILogger  - Strawberry
+[main] DEBUG creational_singleton.ILogger  - Black Current
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is not a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - In YearMod100 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - Year is not a leap year
+[main] DEBUG behavioural_state.Rectangle  - Drawing Rectangle
+[main] DEBUG behavioural_state.Circle  - Drawing Circle
+[main] DEBUG test_design_patterns.DecoratorTest  - Viswa, with Shirt, with Black pant
+[main] DEBUG test_design_patterns.DecoratorTest  - none, with Black pant
+[main] DEBUG creational_singleton.ILogger  - This is a test for singleton creational design patter
+[main] DEBUG creational_singleton.ILogger  - Hash code of first retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Hash code of second retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Are two objects same ? true
+[main] INFO  test_design_patterns.AdapterTest  - Created HpIndianCharger object
+[main] INFO  test_design_patterns.AdapterTest  - Created HpUsCharger object
+[main] DEBUG structural_adapter.HpIndianCharger  - Fits with an Indian port
+[main] DEBUG structural_adapter.HpUsCharger  - Fits with an US port
+[main] INFO  test_design_patterns.AdapterTest  - Created UsToIndiaAdapter object
+[main] DEBUG structural_adapter.UsToIndiaAdapter  - Fits with an Indian port
+[main] DEBUG creational_singleton.ILogger  - Vanila
+[main] DEBUG creational_singleton.ILogger  - Strawberry
+[main] DEBUG creational_singleton.ILogger  - Black Current
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is not a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - In YearMod100 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - Year is not a leap year
+[main] DEBUG behavioural_state.Rectangle  - Drawing Rectangle
+[main] DEBUG behavioural_state.Circle  - Drawing Circle
+[main] DEBUG test_design_patterns.DecoratorTest  - Viswa, with Shirt, with Black pant
+[main] DEBUG test_design_patterns.DecoratorTest  - none, with Black pant
+[main] DEBUG creational_singleton.ILogger  - This is a test for singleton creational design patter
+[main] DEBUG creational_singleton.ILogger  - Hash code of first retrieval : 405662939
+[main] DEBUG creational_singleton.ILogger  - Hash code of second retrieval : 405662939
+[main] DEBUG creational_singleton.ILogger  - Are two objects same ? true
+[main] INFO  test_design_patterns.AdapterTest  - Created HpIndianCharger object
+[main] INFO  test_design_patterns.AdapterTest  - Created HpUsCharger object
+[main] DEBUG structural_adapter.HpIndianCharger  - Fits with an Indian port
+[main] DEBUG structural_adapter.HpUsCharger  - Fits with an US port
+[main] INFO  test_design_patterns.AdapterTest  - Created UsToIndiaAdapter object
+[main] DEBUG structural_adapter.UsToIndiaAdapter  - Fits with an Indian port
+[main] DEBUG creational_singleton.ILogger  - Vanila
+[main] DEBUG creational_singleton.ILogger  - Strawberry
+[main] DEBUG creational_singleton.ILogger  - Black Current
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - In YearMod4 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod4  - Year is not a leap year
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - In YearMod100 process
+[main] DEBUG beharioural_chain_of_responsibility.YearMod100  - Year is not a leap year
+[main] DEBUG behavioural_state.Rectangle  - Drawing Rectangle
+[main] DEBUG behavioural_state.Circle  - Drawing Circle
+[main] DEBUG test_design_patterns.DecoratorTest  - Viswa, with Shirt, with Black pant
+[main] DEBUG test_design_patterns.DecoratorTest  - none, with Black pant
+[main] DEBUG creational_singleton.ILogger  - This is a test for singleton creational design patter
+[main] DEBUG creational_singleton.ILogger  - Hash code of first retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Hash code of second retrieval : 1993134103
+[main] DEBUG creational_singleton.ILogger  - Are two objects same ? true

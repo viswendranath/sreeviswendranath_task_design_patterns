@@ -11,7 +11,7 @@ public class YearMod4 extends Process{
 
 	@Override
 	public boolean process(int year) {
-		Logger log = ILogger.getLogger();
+		Logger log = Logger.getLogger(YearMod4.class.getName());
 		log.debug("In YearMod4 process");
 		if(year % 4 == 0) {
 			log.debug("Year is a leap year");
